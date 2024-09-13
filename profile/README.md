@@ -17,5 +17,4 @@ PengiOS is a Linux operating system made for penguin enthusiasts, or penguins in
 
 
 
-* we have permission to use this. We downloaded it from Dreamstime for free. You can download this as part of the source code, but be careful not to violate the license. If you would like to report a copyright violation of any content, let us know. We will look for more permissive licensed photos in the future.
-* 
+\*we have permission to use this. We downloaded it from Dreamstime for free. You can download this as part of the source code, but be careful not to violate the license. If you would like to report a copyright violation of any content, let us know. We will look for more permissive licensed photos in the future.
