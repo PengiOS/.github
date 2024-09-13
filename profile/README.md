@@ -11,7 +11,7 @@
 
 PengiOS is a Linux operating system made for penguin enthusiasts, or penguins in Antarctica themselves. Everything here is easy to use and learn and themed around penguins. You can find more information on our [official website](https://pengios.github.io) and our [wiki](https://pengios.github.io/wiki). [Here's our wiki page on why you (and many other people) should use PengiOS](https://pengios.github.io/wiki/why).
 
-###### PengiOS is a side project and shouldn't be taken too seriously :)))) you should still use it though
+###### PengiOS is a side project and shouldn't be taken too seriously :)))) you should still use it though. Also if site does not work [PengiStatus](pengios.github.io/status) will save you. :)
 
 **You've found our source code.** We try to make as many of our components as possible Free (as in freedom) and open source, innovating freely with penguins and not patents. Here you'll find my build scripts to bootstrap my respective base distro, install my extra components, add, patch, and configure the system. You'll also find our websites, pages, and code for our custom components, scripts, applications, programs, themes, configurations, assets, and much more.
 
