@@ -1,13 +1,13 @@
 # PengiOS
 
 ![Cool Photo](https://github.com/PengiOS/pengios.github.io/blob/main/homepage/assets/background.png?raw=true)
-*Stock photo by Denis Linine on Unsplash, Unsplash License.
+*Stock photo by Denis Linine on Unsplash, Unsplash License.*
 
 ## Welcome to the Pengi-est OS to ever waddle near your eyes
 
 ### I'm a Linux distro based on Debian (old stable rock) or Arch (nERd BtW) Linux.
 
-(There are two respective versions.)
+(These are two respective versions. Start on Debian, then move on to Arch when you're more comfortable)
 
 PengiOS is a Linux operating system made for penguin enthusiasts, or penguins in Antarctica themselves. Everything here is easy to use and learn and themed around penguins. You can find more information on our [official website](https://pengios.github.io), our [wiki](https://pengios.github.io/wiki) and the [community forums](https://github.com/orgs/PengiOS/discussions). [Here's our wiki page on why you (and many other people) should use PengiOS](https://pengios.github.io/wiki/why).
 
