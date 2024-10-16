@@ -1,6 +1,6 @@
 # PengiOS
 
-![Cool Photo](https://github.com/PengiOS/pengios.github.io/blob/main/homepage/assets/background.png?raw=true)
+![Cool Photo](https://github.com/PengiOS/pengios.github.io/blob/main/public/background.png?raw=true)
 *Stock photo by Denis Linine on Unsplash, Unsplash License.*
 
 ## Welcome to the Pengi-est OS to ever waddle near your eyes
